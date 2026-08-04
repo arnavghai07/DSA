@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/arnavghai07/DSA/tree/master/0877-stone-game) |
+| [3731-find-missing-elements](https://github.com/arnavghai07/DSA/tree/master/3731-find-missing-elements) |
 ## Math
 |  |
 | ------- |
@@ -33,4 +34,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1750-minimum-length-of-string-after-deleting-similar-ends](https://github.com/arnavghai07/DSA/tree/master/1750-minimum-length-of-string-after-deleting-similar-ends) |
+## Hash Table
+|  |
+| ------- |
+| [3731-find-missing-elements](https://github.com/arnavghai07/DSA/tree/master/3731-find-missing-elements) |
+## Sorting
+|  |
+| ------- |
+| [3731-find-missing-elements](https://github.com/arnavghai07/DSA/tree/master/3731-find-missing-elements) |
 <!---LeetCode Topics End-->
