@@ -25,4 +25,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/arnavghai07/DSA/tree/master/0877-stone-game) |
+## Two Pointers
+|  |
+| ------- |
+| [1750-minimum-length-of-string-after-deleting-similar-ends](https://github.com/arnavghai07/DSA/tree/master/1750-minimum-length-of-string-after-deleting-similar-ends) |
+## String
+|  |
+| ------- |
+| [1750-minimum-length-of-string-after-deleting-similar-ends](https://github.com/arnavghai07/DSA/tree/master/1750-minimum-length-of-string-after-deleting-similar-ends) |
 <!---LeetCode Topics End-->
