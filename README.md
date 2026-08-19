@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/arnavghai07/DSA/tree/master/0014-longest-common-prefix) |
 | [0018-4sum](https://github.com/arnavghai07/DSA/tree/master/0018-4sum) |
 | [0209-minimum-size-subarray-sum](https://github.com/arnavghai07/DSA/tree/master/0209-minimum-size-subarray-sum) |
+| [0525-contiguous-array](https://github.com/arnavghai07/DSA/tree/master/0525-contiguous-array) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/arnavghai07/DSA/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0594-longest-harmonious-subsequence](https://github.com/arnavghai07/DSA/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/arnavghai07/DSA/tree/master/0643-maximum-average-subarray-i) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0525-contiguous-array](https://github.com/arnavghai07/DSA/tree/master/0525-contiguous-array) |
 | [0594-longest-harmonious-subsequence](https://github.com/arnavghai07/DSA/tree/master/0594-longest-harmonious-subsequence) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/arnavghai07/DSA/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3731-find-missing-elements](https://github.com/arnavghai07/DSA/tree/master/3731-find-missing-elements) |
@@ -92,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/arnavghai07/DSA/tree/master/0209-minimum-size-subarray-sum) |
+| [0525-contiguous-array](https://github.com/arnavghai07/DSA/tree/master/0525-contiguous-array) |
 | [0713-subarray-product-less-than-k](https://github.com/arnavghai07/DSA/tree/master/0713-subarray-product-less-than-k) |
 ## Enumeration
 |  |
