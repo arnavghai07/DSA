@@ -131,4 +131,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/arnavghai07/DSA/tree/master/0002-add-two-numbers) |
+## Backtracking
+|  |
+| ------- |
+| [0401-binary-watch](https://github.com/arnavghai07/DSA/tree/master/0401-binary-watch) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0401-binary-watch](https://github.com/arnavghai07/DSA/tree/master/0401-binary-watch) |
 <!---LeetCode Topics End-->
