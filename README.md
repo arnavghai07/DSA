@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/arnavghai07/DSA/tree/master/0014-longest-common-prefix) |
 | [0018-4sum](https://github.com/arnavghai07/DSA/tree/master/0018-4sum) |
+| [0066-plus-one](https://github.com/arnavghai07/DSA/tree/master/0066-plus-one) |
 | [0209-minimum-size-subarray-sum](https://github.com/arnavghai07/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0525-contiguous-array](https://github.com/arnavghai07/DSA/tree/master/0525-contiguous-array) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/arnavghai07/DSA/tree/master/0581-shortest-unsorted-continuous-subarray) |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/arnavghai07/DSA/tree/master/0002-add-two-numbers) |
+| [0066-plus-one](https://github.com/arnavghai07/DSA/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/arnavghai07/DSA/tree/master/0069-sqrtx) |
 | [0877-stone-game](https://github.com/arnavghai07/DSA/tree/master/0877-stone-game) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/arnavghai07/DSA/tree/master/3345-smallest-divisible-digit-product-i) |
