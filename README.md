@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3731-find-missing-elements](https://github.com/arnavghai07/DSA/tree/master/3731-find-missing-elements) |
 | [3875-construct-uniform-parity-array-i](https://github.com/arnavghai07/DSA/tree/master/3875-construct-uniform-parity-array-i) |
 | [3903-smallest-stable-index-i](https://github.com/arnavghai07/DSA/tree/master/3903-smallest-stable-index-i) |
+| [3904-smallest-stable-index-ii](https://github.com/arnavghai07/DSA/tree/master/3904-smallest-stable-index-ii) |
 ## Math
 |  |
 | ------- |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/arnavghai07/DSA/tree/master/0525-contiguous-array) |
 | [0713-subarray-product-less-than-k](https://github.com/arnavghai07/DSA/tree/master/0713-subarray-product-less-than-k) |
 | [3903-smallest-stable-index-i](https://github.com/arnavghai07/DSA/tree/master/3903-smallest-stable-index-i) |
+| [3904-smallest-stable-index-ii](https://github.com/arnavghai07/DSA/tree/master/3904-smallest-stable-index-ii) |
 ## Enumeration
 |  |
 | ------- |
