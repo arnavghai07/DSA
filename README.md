@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/arnavghai07/DSA/tree/master/0018-4sum) |
 | [0066-plus-one](https://github.com/arnavghai07/DSA/tree/master/0066-plus-one) |
 | [0209-minimum-size-subarray-sum](https://github.com/arnavghai07/DSA/tree/master/0209-minimum-size-subarray-sum) |
+| [0349-intersection-of-two-arrays](https://github.com/arnavghai07/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0525-contiguous-array](https://github.com/arnavghai07/DSA/tree/master/0525-contiguous-array) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/arnavghai07/DSA/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0594-longest-harmonious-subsequence](https://github.com/arnavghai07/DSA/tree/master/0594-longest-harmonious-subsequence) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0018-4sum](https://github.com/arnavghai07/DSA/tree/master/0018-4sum) |
+| [0349-intersection-of-two-arrays](https://github.com/arnavghai07/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/arnavghai07/DSA/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0844-backspace-string-compare](https://github.com/arnavghai07/DSA/tree/master/0844-backspace-string-compare) |
 | [0962-maximum-width-ramp](https://github.com/arnavghai07/DSA/tree/master/0962-maximum-width-ramp) |
@@ -66,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0349-intersection-of-two-arrays](https://github.com/arnavghai07/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0525-contiguous-array](https://github.com/arnavghai07/DSA/tree/master/0525-contiguous-array) |
 | [0594-longest-harmonious-subsequence](https://github.com/arnavghai07/DSA/tree/master/0594-longest-harmonious-subsequence) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/arnavghai07/DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -76,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0018-4sum](https://github.com/arnavghai07/DSA/tree/master/0018-4sum) |
+| [0349-intersection-of-two-arrays](https://github.com/arnavghai07/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/arnavghai07/DSA/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0594-longest-harmonious-subsequence](https://github.com/arnavghai07/DSA/tree/master/0594-longest-harmonious-subsequence) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/arnavghai07/DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -96,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0069-sqrtx](https://github.com/arnavghai07/DSA/tree/master/0069-sqrtx) |
 | [0209-minimum-size-subarray-sum](https://github.com/arnavghai07/DSA/tree/master/0209-minimum-size-subarray-sum) |
+| [0349-intersection-of-two-arrays](https://github.com/arnavghai07/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0713-subarray-product-less-than-k](https://github.com/arnavghai07/DSA/tree/master/0713-subarray-product-less-than-k) |
 ## Sliding Window
 |  |
