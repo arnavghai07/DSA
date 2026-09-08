@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/arnavghai07/DSA/tree/master/0877-stone-game) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/arnavghai07/DSA/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/arnavghai07/DSA/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
+| [3870-count-commas-in-range](https://github.com/arnavghai07/DSA/tree/master/3870-count-commas-in-range) |
 | [3875-construct-uniform-parity-array-i](https://github.com/arnavghai07/DSA/tree/master/3875-construct-uniform-parity-array-i) |
 ## Dynamic Programming
 |  |
