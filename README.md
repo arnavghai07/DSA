@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/arnavghai07/DSA/tree/master/0002-add-two-numbers) |
 | [0066-plus-one](https://github.com/arnavghai07/DSA/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/arnavghai07/DSA/tree/master/0069-sqrtx) |
+| [0836-rectangle-overlap](https://github.com/arnavghai07/DSA/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/arnavghai07/DSA/tree/master/0877-stone-game) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/arnavghai07/DSA/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/arnavghai07/DSA/tree/master/3536-maximum-product-of-two-digits) |
@@ -191,4 +192,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/arnavghai07/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/arnavghai07/DSA/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
