@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0495-teemo-attacking](https://github.com/arnavghai07/DSA/tree/master/0495-teemo-attacking) |
 | [0500-keyboard-row](https://github.com/arnavghai07/DSA/tree/master/0500-keyboard-row) |
 | [0525-contiguous-array](https://github.com/arnavghai07/DSA/tree/master/0525-contiguous-array) |
+| [0575-distribute-candies](https://github.com/arnavghai07/DSA/tree/master/0575-distribute-candies) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/arnavghai07/DSA/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0594-longest-harmonious-subsequence](https://github.com/arnavghai07/DSA/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/arnavghai07/DSA/tree/master/0643-maximum-average-subarray-i) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/arnavghai07/DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0500-keyboard-row](https://github.com/arnavghai07/DSA/tree/master/0500-keyboard-row) |
 | [0525-contiguous-array](https://github.com/arnavghai07/DSA/tree/master/0525-contiguous-array) |
+| [0575-distribute-candies](https://github.com/arnavghai07/DSA/tree/master/0575-distribute-candies) |
 | [0594-longest-harmonious-subsequence](https://github.com/arnavghai07/DSA/tree/master/0594-longest-harmonious-subsequence) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/arnavghai07/DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/arnavghai07/DSA/tree/master/3471-find-the-largest-almost-missing-integer) |
