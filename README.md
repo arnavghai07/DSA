@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/arnavghai07/DSA/tree/master/0002-add-two-numbers) |
 | [0066-plus-one](https://github.com/arnavghai07/DSA/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/arnavghai07/DSA/tree/master/0069-sqrtx) |
+| [0412-fizz-buzz](https://github.com/arnavghai07/DSA/tree/master/0412-fizz-buzz) |
 | [0836-rectangle-overlap](https://github.com/arnavghai07/DSA/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/arnavghai07/DSA/tree/master/0877-stone-game) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/arnavghai07/DSA/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/arnavghai07/DSA/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/arnavghai07/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/arnavghai07/DSA/tree/master/0409-longest-palindrome) |
+| [0412-fizz-buzz](https://github.com/arnavghai07/DSA/tree/master/0412-fizz-buzz) |
 | [0500-keyboard-row](https://github.com/arnavghai07/DSA/tree/master/0500-keyboard-row) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/arnavghai07/DSA/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0844-backspace-string-compare](https://github.com/arnavghai07/DSA/tree/master/0844-backspace-string-compare) |
@@ -177,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/arnavghai07/DSA/tree/master/0412-fizz-buzz) |
 | [0495-teemo-attacking](https://github.com/arnavghai07/DSA/tree/master/0495-teemo-attacking) |
 | [0844-backspace-string-compare](https://github.com/arnavghai07/DSA/tree/master/0844-backspace-string-compare) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/arnavghai07/DSA/tree/master/3069-distribute-elements-into-two-arrays-i) |
