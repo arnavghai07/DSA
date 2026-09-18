@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/arnavghai07/DSA/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0594-longest-harmonious-subsequence](https://github.com/arnavghai07/DSA/tree/master/0594-longest-harmonious-subsequence) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/arnavghai07/DSA/tree/master/0599-minimum-index-sum-of-two-lists) |
+| [0605-can-place-flowers](https://github.com/arnavghai07/DSA/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/arnavghai07/DSA/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/arnavghai07/DSA/tree/master/0713-subarray-product-less-than-k) |
 | [0877-stone-game](https://github.com/arnavghai07/DSA/tree/master/0877-stone-game) |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0179-largest-number](https://github.com/arnavghai07/DSA/tree/master/0179-largest-number) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/arnavghai07/DSA/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [0605-can-place-flowers](https://github.com/arnavghai07/DSA/tree/master/0605-can-place-flowers) |
 ## Simulation
 |  |
 | ------- |
