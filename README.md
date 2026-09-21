@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1122-relative-sort-array](https://github.com/arnavghai07/DSA/tree/master/1122-relative-sort-array) |
 | [1200-minimum-absolute-difference](https://github.com/arnavghai07/DSA/tree/master/1200-minimum-absolute-difference) |
 | [1331-rank-transform-of-an-array](https://github.com/arnavghai07/DSA/tree/master/1331-rank-transform-of-an-array) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/arnavghai07/DSA/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/arnavghai07/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/arnavghai07/DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/arnavghai07/DSA/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/arnavghai07/DSA/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/arnavghai07/DSA/tree/master/0922-sort-array-by-parity-ii) |
 | [0962-maximum-width-ramp](https://github.com/arnavghai07/DSA/tree/master/0962-maximum-width-ramp) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/arnavghai07/DSA/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1750-minimum-length-of-string-after-deleting-similar-ends](https://github.com/arnavghai07/DSA/tree/master/1750-minimum-length-of-string-after-deleting-similar-ends) |
 ## String
 |  |
@@ -123,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0888-fair-candy-swap](https://github.com/arnavghai07/DSA/tree/master/0888-fair-candy-swap) |
 | [1122-relative-sort-array](https://github.com/arnavghai07/DSA/tree/master/1122-relative-sort-array) |
 | [1331-rank-transform-of-an-array](https://github.com/arnavghai07/DSA/tree/master/1331-rank-transform-of-an-array) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/arnavghai07/DSA/tree/master/1346-check-if-n-and-its-double-exist) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/arnavghai07/DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/arnavghai07/DSA/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/arnavghai07/DSA/tree/master/3483-unique-3-digit-even-numbers) |
@@ -147,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1122-relative-sort-array](https://github.com/arnavghai07/DSA/tree/master/1122-relative-sort-array) |
 | [1200-minimum-absolute-difference](https://github.com/arnavghai07/DSA/tree/master/1200-minimum-absolute-difference) |
 | [1331-rank-transform-of-an-array](https://github.com/arnavghai07/DSA/tree/master/1331-rank-transform-of-an-array) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/arnavghai07/DSA/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/arnavghai07/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/arnavghai07/DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3536-maximum-product-of-two-digits](https://github.com/arnavghai07/DSA/tree/master/3536-maximum-product-of-two-digits) |
@@ -170,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/arnavghai07/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0713-subarray-product-less-than-k](https://github.com/arnavghai07/DSA/tree/master/0713-subarray-product-less-than-k) |
 | [0888-fair-candy-swap](https://github.com/arnavghai07/DSA/tree/master/0888-fair-candy-swap) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/arnavghai07/DSA/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Sliding Window
 |  |
 | ------- |
