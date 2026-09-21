@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0922-sort-array-by-parity-ii](https://github.com/arnavghai07/DSA/tree/master/0922-sort-array-by-parity-ii) |
 | [0962-maximum-width-ramp](https://github.com/arnavghai07/DSA/tree/master/0962-maximum-width-ramp) |
 | [0976-largest-perimeter-triangle](https://github.com/arnavghai07/DSA/tree/master/0976-largest-perimeter-triangle) |
+| [1005-maximize-sum-of-array-after-k-negations](https://github.com/arnavghai07/DSA/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/arnavghai07/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/arnavghai07/DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/arnavghai07/DSA/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/arnavghai07/DSA/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/arnavghai07/DSA/tree/master/0922-sort-array-by-parity-ii) |
 | [0976-largest-perimeter-triangle](https://github.com/arnavghai07/DSA/tree/master/0976-largest-perimeter-triangle) |
+| [1005-maximize-sum-of-array-after-k-negations](https://github.com/arnavghai07/DSA/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/arnavghai07/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/arnavghai07/DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3536-maximum-product-of-two-digits](https://github.com/arnavghai07/DSA/tree/master/3536-maximum-product-of-two-digits) |
@@ -194,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/arnavghai07/DSA/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0605-can-place-flowers](https://github.com/arnavghai07/DSA/tree/master/0605-can-place-flowers) |
 | [0976-largest-perimeter-triangle](https://github.com/arnavghai07/DSA/tree/master/0976-largest-perimeter-triangle) |
+| [1005-maximize-sum-of-array-after-k-negations](https://github.com/arnavghai07/DSA/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 ## Simulation
 |  |
 | ------- |
