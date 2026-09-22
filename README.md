@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/arnavghai07/DSA/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/arnavghai07/DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/arnavghai07/DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [1403-minimum-subsequence-in-non-increasing-order](https://github.com/arnavghai07/DSA/tree/master/1403-minimum-subsequence-in-non-increasing-order) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/arnavghai07/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/arnavghai07/DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/arnavghai07/DSA/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/arnavghai07/DSA/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/arnavghai07/DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/arnavghai07/DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [1403-minimum-subsequence-in-non-increasing-order](https://github.com/arnavghai07/DSA/tree/master/1403-minimum-subsequence-in-non-increasing-order) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/arnavghai07/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/arnavghai07/DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3536-maximum-product-of-two-digits](https://github.com/arnavghai07/DSA/tree/master/3536-maximum-product-of-two-digits) |
@@ -221,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0605-can-place-flowers](https://github.com/arnavghai07/DSA/tree/master/0605-can-place-flowers) |
 | [0976-largest-perimeter-triangle](https://github.com/arnavghai07/DSA/tree/master/0976-largest-perimeter-triangle) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/arnavghai07/DSA/tree/master/1005-maximize-sum-of-array-after-k-negations) |
+| [1403-minimum-subsequence-in-non-increasing-order](https://github.com/arnavghai07/DSA/tree/master/1403-minimum-subsequence-in-non-increasing-order) |
 ## Simulation
 |  |
 | ------- |
