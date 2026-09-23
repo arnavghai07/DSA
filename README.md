@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0599-minimum-index-sum-of-two-lists](https://github.com/arnavghai07/DSA/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0844-backspace-string-compare](https://github.com/arnavghai07/DSA/tree/master/0844-backspace-string-compare) |
 | [1750-minimum-length-of-string-after-deleting-similar-ends](https://github.com/arnavghai07/DSA/tree/master/1750-minimum-length-of-string-after-deleting-similar-ends) |
+| [1859-sorting-the-sentence](https://github.com/arnavghai07/DSA/tree/master/1859-sorting-the-sentence) |
 ## Hash Table
 |  |
 | ------- |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1636-sort-array-by-increasing-frequency](https://github.com/arnavghai07/DSA/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1637-widest-vertical-area-between-two-points-containing-no-points](https://github.com/arnavghai07/DSA/tree/master/1637-widest-vertical-area-between-two-points-containing-no-points) |
 | [1710-maximum-units-on-a-truck](https://github.com/arnavghai07/DSA/tree/master/1710-maximum-units-on-a-truck) |
+| [1859-sorting-the-sentence](https://github.com/arnavghai07/DSA/tree/master/1859-sorting-the-sentence) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/arnavghai07/DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3536-maximum-product-of-two-digits](https://github.com/arnavghai07/DSA/tree/master/3536-maximum-product-of-two-digits) |
 | [3731-find-missing-elements](https://github.com/arnavghai07/DSA/tree/master/3731-find-missing-elements) |
@@ -341,4 +343,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1051-height-checker](https://github.com/arnavghai07/DSA/tree/master/1051-height-checker) |
 | [1122-relative-sort-array](https://github.com/arnavghai07/DSA/tree/master/1122-relative-sort-array) |
+| [1859-sorting-the-sentence](https://github.com/arnavghai07/DSA/tree/master/1859-sorting-the-sentence) |
 <!---LeetCode Topics End-->
