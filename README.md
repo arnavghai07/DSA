@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2248-intersection-of-multiple-arrays](https://github.com/arnavghai07/DSA/tree/master/2248-intersection-of-multiple-arrays) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/arnavghai07/DSA/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/arnavghai07/DSA/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
+| [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/arnavghai07/DSA/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/arnavghai07/DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/arnavghai07/DSA/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/arnavghai07/DSA/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2154-keep-multiplying-found-values-by-two](https://github.com/arnavghai07/DSA/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2248-intersection-of-multiple-arrays](https://github.com/arnavghai07/DSA/tree/master/2248-intersection-of-multiple-arrays) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/arnavghai07/DSA/tree/master/2273-find-resultant-array-after-removing-anagrams) |
+| [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/arnavghai07/DSA/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/arnavghai07/DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/arnavghai07/DSA/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/arnavghai07/DSA/tree/master/3483-unique-3-digit-even-numbers) |
@@ -217,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2248-intersection-of-multiple-arrays](https://github.com/arnavghai07/DSA/tree/master/2248-intersection-of-multiple-arrays) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/arnavghai07/DSA/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/arnavghai07/DSA/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
+| [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/arnavghai07/DSA/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/arnavghai07/DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3536-maximum-product-of-two-digits](https://github.com/arnavghai07/DSA/tree/master/3536-maximum-product-of-two-digits) |
 | [3731-find-missing-elements](https://github.com/arnavghai07/DSA/tree/master/3731-find-missing-elements) |
@@ -288,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/arnavghai07/DSA/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/arnavghai07/DSA/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/arnavghai07/DSA/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
+| [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/arnavghai07/DSA/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 ## Simulation
 |  |
 | ------- |
@@ -295,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0495-teemo-attacking](https://github.com/arnavghai07/DSA/tree/master/0495-teemo-attacking) |
 | [0844-backspace-string-compare](https://github.com/arnavghai07/DSA/tree/master/0844-backspace-string-compare) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/arnavghai07/DSA/tree/master/2154-keep-multiplying-found-values-by-two) |
+| [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/arnavghai07/DSA/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/arnavghai07/DSA/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/arnavghai07/DSA/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Counting
@@ -355,6 +360,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/arnavghai07/DSA/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2231-largest-number-after-digit-swaps-by-parity](https://github.com/arnavghai07/DSA/tree/master/2231-largest-number-after-digit-swaps-by-parity) |
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/arnavghai07/DSA/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
+| [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/arnavghai07/DSA/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/arnavghai07/DSA/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Geometry
 |  |
