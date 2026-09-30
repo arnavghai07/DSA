@@ -165,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1859-sorting-the-sentence](https://github.com/arnavghai07/DSA/tree/master/1859-sorting-the-sentence) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/arnavghai07/DSA/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2418-sort-the-people](https://github.com/arnavghai07/DSA/tree/master/2418-sort-the-people) |
+| [3545-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/arnavghai07/DSA/tree/master/3545-minimum-deletions-for-at-most-k-distinct-characters) |
 ## Hash Table
 |  |
 | ------- |
@@ -201,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3471-find-the-largest-almost-missing-integer](https://github.com/arnavghai07/DSA/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/arnavghai07/DSA/tree/master/3483-unique-3-digit-even-numbers) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/arnavghai07/DSA/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+| [3545-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/arnavghai07/DSA/tree/master/3545-minimum-deletions-for-at-most-k-distinct-characters) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/arnavghai07/DSA/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/arnavghai07/DSA/tree/master/3731-find-missing-elements) |
 ## Sorting
@@ -271,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/arnavghai07/DSA/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3467-transform-array-by-parity](https://github.com/arnavghai07/DSA/tree/master/3467-transform-array-by-parity) |
 | [3536-maximum-product-of-two-digits](https://github.com/arnavghai07/DSA/tree/master/3536-maximum-product-of-two-digits) |
+| [3545-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/arnavghai07/DSA/tree/master/3545-minimum-deletions-for-at-most-k-distinct-characters) |
 | [3731-find-missing-elements](https://github.com/arnavghai07/DSA/tree/master/3731-find-missing-elements) |
 ## Stack
 |  |
@@ -350,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2578-split-with-minimum-sum](https://github.com/arnavghai07/DSA/tree/master/2578-split-with-minimum-sum) |
 | [2706-buy-two-chocolates](https://github.com/arnavghai07/DSA/tree/master/2706-buy-two-chocolates) |
 | [3074-apple-redistribution-into-boxes](https://github.com/arnavghai07/DSA/tree/master/3074-apple-redistribution-into-boxes) |
+| [3545-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/arnavghai07/DSA/tree/master/3545-minimum-deletions-for-at-most-k-distinct-characters) |
 ## Simulation
 |  |
 | ------- |
@@ -372,6 +376,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/arnavghai07/DSA/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2248-intersection-of-multiple-arrays](https://github.com/arnavghai07/DSA/tree/master/2248-intersection-of-multiple-arrays) |
 | [3467-transform-array-by-parity](https://github.com/arnavghai07/DSA/tree/master/3467-transform-array-by-parity) |
+| [3545-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/arnavghai07/DSA/tree/master/3545-minimum-deletions-for-at-most-k-distinct-characters) |
 ## Linked List
 |  |
 | ------- |
