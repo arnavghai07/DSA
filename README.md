@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/arnavghai07/DSA/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3074-apple-redistribution-into-boxes](https://github.com/arnavghai07/DSA/tree/master/3074-apple-redistribution-into-boxes) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/arnavghai07/DSA/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
+| [3467-transform-array-by-parity](https://github.com/arnavghai07/DSA/tree/master/3467-transform-array-by-parity) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/arnavghai07/DSA/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/arnavghai07/DSA/tree/master/3483-unique-3-digit-even-numbers) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/arnavghai07/DSA/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
@@ -268,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3024-type-of-triangle](https://github.com/arnavghai07/DSA/tree/master/3024-type-of-triangle) |
 | [3074-apple-redistribution-into-boxes](https://github.com/arnavghai07/DSA/tree/master/3074-apple-redistribution-into-boxes) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/arnavghai07/DSA/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
+| [3467-transform-array-by-parity](https://github.com/arnavghai07/DSA/tree/master/3467-transform-array-by-parity) |
 | [3536-maximum-product-of-two-digits](https://github.com/arnavghai07/DSA/tree/master/3536-maximum-product-of-two-digits) |
 | [3731-find-missing-elements](https://github.com/arnavghai07/DSA/tree/master/3731-find-missing-elements) |
 ## Stack
@@ -369,6 +371,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/arnavghai07/DSA/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/arnavghai07/DSA/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2248-intersection-of-multiple-arrays](https://github.com/arnavghai07/DSA/tree/master/2248-intersection-of-multiple-arrays) |
+| [3467-transform-array-by-parity](https://github.com/arnavghai07/DSA/tree/master/3467-transform-array-by-parity) |
 ## Linked List
 |  |
 | ------- |
