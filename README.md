@@ -179,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2000-reverse-prefix-of-word](https://github.com/arnavghai07/DSA/tree/master/2000-reverse-prefix-of-word) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/arnavghai07/DSA/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2418-sort-the-people](https://github.com/arnavghai07/DSA/tree/master/2418-sort-the-people) |
+| [2696-minimum-string-length-after-removing-substrings](https://github.com/arnavghai07/DSA/tree/master/2696-minimum-string-length-after-removing-substrings) |
 | [3545-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/arnavghai07/DSA/tree/master/3545-minimum-deletions-for-at-most-k-distinct-characters) |
 ## Hash Table
 |  |
@@ -301,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1544-make-the-string-great](https://github.com/arnavghai07/DSA/tree/master/1544-make-the-string-great) |
 | [1598-crawler-log-folder](https://github.com/arnavghai07/DSA/tree/master/1598-crawler-log-folder) |
 | [2000-reverse-prefix-of-word](https://github.com/arnavghai07/DSA/tree/master/2000-reverse-prefix-of-word) |
+| [2696-minimum-string-length-after-removing-substrings](https://github.com/arnavghai07/DSA/tree/master/2696-minimum-string-length-after-removing-substrings) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -384,6 +386,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2154-keep-multiplying-found-values-by-two](https://github.com/arnavghai07/DSA/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/arnavghai07/DSA/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2500-delete-greatest-value-in-each-row](https://github.com/arnavghai07/DSA/tree/master/2500-delete-greatest-value-in-each-row) |
+| [2696-minimum-string-length-after-removing-substrings](https://github.com/arnavghai07/DSA/tree/master/2696-minimum-string-length-after-removing-substrings) |
 | [2974-minimum-number-game](https://github.com/arnavghai07/DSA/tree/master/2974-minimum-number-game) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/arnavghai07/DSA/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/arnavghai07/DSA/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
