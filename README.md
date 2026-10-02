@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/arnavghai07/DSA/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/arnavghai07/DSA/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/arnavghai07/DSA/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
+| [1598-crawler-log-folder](https://github.com/arnavghai07/DSA/tree/master/1598-crawler-log-folder) |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/arnavghai07/DSA/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1619-mean-of-array-after-removing-some-elements](https://github.com/arnavghai07/DSA/tree/master/1619-mean-of-array-after-removing-some-elements) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/arnavghai07/DSA/tree/master/1636-sort-array-by-increasing-frequency) |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0844-backspace-string-compare](https://github.com/arnavghai07/DSA/tree/master/0844-backspace-string-compare) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/arnavghai07/DSA/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1544-make-the-string-great](https://github.com/arnavghai07/DSA/tree/master/1544-make-the-string-great) |
+| [1598-crawler-log-folder](https://github.com/arnavghai07/DSA/tree/master/1598-crawler-log-folder) |
 | [1750-minimum-length-of-string-after-deleting-similar-ends](https://github.com/arnavghai07/DSA/tree/master/1750-minimum-length-of-string-after-deleting-similar-ends) |
 | [1859-sorting-the-sentence](https://github.com/arnavghai07/DSA/tree/master/1859-sorting-the-sentence) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/arnavghai07/DSA/tree/master/2273-find-resultant-array-after-removing-anagrams) |
@@ -295,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/arnavghai07/DSA/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/arnavghai07/DSA/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1544-make-the-string-great](https://github.com/arnavghai07/DSA/tree/master/1544-make-the-string-great) |
+| [1598-crawler-log-folder](https://github.com/arnavghai07/DSA/tree/master/1598-crawler-log-folder) |
 ## Monotonic Stack
 |  |
 | ------- |
