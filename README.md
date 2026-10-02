@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1403-minimum-subsequence-in-non-increasing-order](https://github.com/arnavghai07/DSA/tree/master/1403-minimum-subsequence-in-non-increasing-order) |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/arnavghai07/DSA/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/arnavghai07/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/arnavghai07/DSA/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/arnavghai07/DSA/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/arnavghai07/DSA/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/arnavghai07/DSA/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
@@ -291,11 +292,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0844-backspace-string-compare](https://github.com/arnavghai07/DSA/tree/master/0844-backspace-string-compare) |
 | [0962-maximum-width-ramp](https://github.com/arnavghai07/DSA/tree/master/0962-maximum-width-ramp) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/arnavghai07/DSA/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/arnavghai07/DSA/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/arnavghai07/DSA/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0962-maximum-width-ramp](https://github.com/arnavghai07/DSA/tree/master/0962-maximum-width-ramp) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/arnavghai07/DSA/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## Binary Search
 |  |
 | ------- |
