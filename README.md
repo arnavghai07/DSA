@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0836-rectangle-overlap](https://github.com/arnavghai07/DSA/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/arnavghai07/DSA/tree/master/0877-stone-game) |
 | [0976-largest-perimeter-triangle](https://github.com/arnavghai07/DSA/tree/master/0976-largest-perimeter-triangle) |
+| [1071-greatest-common-divisor-of-strings](https://github.com/arnavghai07/DSA/tree/master/1071-greatest-common-divisor-of-strings) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/arnavghai07/DSA/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2578-split-with-minimum-sum](https://github.com/arnavghai07/DSA/tree/master/2578-split-with-minimum-sum) |
 | [3024-type-of-triangle](https://github.com/arnavghai07/DSA/tree/master/3024-type-of-triangle) |
@@ -182,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0844-backspace-string-compare](https://github.com/arnavghai07/DSA/tree/master/0844-backspace-string-compare) |
 | [0917-reverse-only-letters](https://github.com/arnavghai07/DSA/tree/master/0917-reverse-only-letters) |
 | [0925-long-pressed-name](https://github.com/arnavghai07/DSA/tree/master/0925-long-pressed-name) |
+| [1071-greatest-common-divisor-of-strings](https://github.com/arnavghai07/DSA/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/arnavghai07/DSA/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1544-make-the-string-great](https://github.com/arnavghai07/DSA/tree/master/1544-make-the-string-great) |
 | [1598-crawler-log-folder](https://github.com/arnavghai07/DSA/tree/master/1598-crawler-log-folder) |
@@ -519,4 +521,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/arnavghai07/DSA/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/arnavghai07/DSA/tree/master/0032-longest-valid-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/arnavghai07/DSA/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [1071-greatest-common-divisor-of-strings](https://github.com/arnavghai07/DSA/tree/master/1071-greatest-common-divisor-of-strings) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [1071-greatest-common-divisor-of-strings](https://github.com/arnavghai07/DSA/tree/master/1071-greatest-common-divisor-of-strings) |
 <!---LeetCode Topics End-->
