@@ -146,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/arnavghai07/DSA/tree/master/0905-sort-array-by-parity) |
 | [0917-reverse-only-letters](https://github.com/arnavghai07/DSA/tree/master/0917-reverse-only-letters) |
 | [0922-sort-array-by-parity-ii](https://github.com/arnavghai07/DSA/tree/master/0922-sort-array-by-parity-ii) |
+| [0925-long-pressed-name](https://github.com/arnavghai07/DSA/tree/master/0925-long-pressed-name) |
 | [0962-maximum-width-ramp](https://github.com/arnavghai07/DSA/tree/master/0962-maximum-width-ramp) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/arnavghai07/DSA/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/arnavghai07/DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0821-shortest-distance-to-a-character](https://github.com/arnavghai07/DSA/tree/master/0821-shortest-distance-to-a-character) |
 | [0844-backspace-string-compare](https://github.com/arnavghai07/DSA/tree/master/0844-backspace-string-compare) |
 | [0917-reverse-only-letters](https://github.com/arnavghai07/DSA/tree/master/0917-reverse-only-letters) |
+| [0925-long-pressed-name](https://github.com/arnavghai07/DSA/tree/master/0925-long-pressed-name) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/arnavghai07/DSA/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1544-make-the-string-great](https://github.com/arnavghai07/DSA/tree/master/1544-make-the-string-great) |
 | [1598-crawler-log-folder](https://github.com/arnavghai07/DSA/tree/master/1598-crawler-log-folder) |
