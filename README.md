@@ -182,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0709-to-lower-case](https://github.com/arnavghai07/DSA/tree/master/0709-to-lower-case) |
 | [0748-shortest-completing-word](https://github.com/arnavghai07/DSA/tree/master/0748-shortest-completing-word) |
 | [0771-jewels-and-stones](https://github.com/arnavghai07/DSA/tree/master/0771-jewels-and-stones) |
+| [0796-rotate-string](https://github.com/arnavghai07/DSA/tree/master/0796-rotate-string) |
 | [0821-shortest-distance-to-a-character](https://github.com/arnavghai07/DSA/tree/master/0821-shortest-distance-to-a-character) |
 | [0844-backspace-string-compare](https://github.com/arnavghai07/DSA/tree/master/0844-backspace-string-compare) |
 | [0856-score-of-parentheses](https://github.com/arnavghai07/DSA/tree/master/0856-score-of-parentheses) |
@@ -454,6 +455,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/arnavghai07/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0459-repeated-substring-pattern](https://github.com/arnavghai07/DSA/tree/master/0459-repeated-substring-pattern) |
+| [0796-rotate-string](https://github.com/arnavghai07/DSA/tree/master/0796-rotate-string) |
 ## Z Algorithm
 |  |
 | ------- |
