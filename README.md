@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/arnavghai07/DSA/tree/master/0713-subarray-product-less-than-k) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/arnavghai07/DSA/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0748-shortest-completing-word](https://github.com/arnavghai07/DSA/tree/master/0748-shortest-completing-word) |
+| [0804-unique-morse-code-words](https://github.com/arnavghai07/DSA/tree/master/0804-unique-morse-code-words) |
 | [0821-shortest-distance-to-a-character](https://github.com/arnavghai07/DSA/tree/master/0821-shortest-distance-to-a-character) |
 | [0832-flipping-an-image](https://github.com/arnavghai07/DSA/tree/master/0832-flipping-an-image) |
 | [0877-stone-game](https://github.com/arnavghai07/DSA/tree/master/0877-stone-game) |
@@ -183,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0748-shortest-completing-word](https://github.com/arnavghai07/DSA/tree/master/0748-shortest-completing-word) |
 | [0771-jewels-and-stones](https://github.com/arnavghai07/DSA/tree/master/0771-jewels-and-stones) |
 | [0796-rotate-string](https://github.com/arnavghai07/DSA/tree/master/0796-rotate-string) |
+| [0804-unique-morse-code-words](https://github.com/arnavghai07/DSA/tree/master/0804-unique-morse-code-words) |
 | [0821-shortest-distance-to-a-character](https://github.com/arnavghai07/DSA/tree/master/0821-shortest-distance-to-a-character) |
 | [0844-backspace-string-compare](https://github.com/arnavghai07/DSA/tree/master/0844-backspace-string-compare) |
 | [0856-score-of-parentheses](https://github.com/arnavghai07/DSA/tree/master/0856-score-of-parentheses) |
@@ -216,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0599-minimum-index-sum-of-two-lists](https://github.com/arnavghai07/DSA/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0748-shortest-completing-word](https://github.com/arnavghai07/DSA/tree/master/0748-shortest-completing-word) |
 | [0771-jewels-and-stones](https://github.com/arnavghai07/DSA/tree/master/0771-jewels-and-stones) |
+| [0804-unique-morse-code-words](https://github.com/arnavghai07/DSA/tree/master/0804-unique-morse-code-words) |
 | [0888-fair-candy-swap](https://github.com/arnavghai07/DSA/tree/master/0888-fair-candy-swap) |
 | [1122-relative-sort-array](https://github.com/arnavghai07/DSA/tree/master/1122-relative-sort-array) |
 | [1331-rank-transform-of-an-array](https://github.com/arnavghai07/DSA/tree/master/1331-rank-transform-of-an-array) |
