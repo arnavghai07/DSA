@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0748-shortest-completing-word](https://github.com/arnavghai07/DSA/tree/master/0748-shortest-completing-word) |
 | [0804-unique-morse-code-words](https://github.com/arnavghai07/DSA/tree/master/0804-unique-morse-code-words) |
 | [0806-number-of-lines-to-write-string](https://github.com/arnavghai07/DSA/tree/master/0806-number-of-lines-to-write-string) |
+| [0819-most-common-word](https://github.com/arnavghai07/DSA/tree/master/0819-most-common-word) |
 | [0821-shortest-distance-to-a-character](https://github.com/arnavghai07/DSA/tree/master/0821-shortest-distance-to-a-character) |
 | [0832-flipping-an-image](https://github.com/arnavghai07/DSA/tree/master/0832-flipping-an-image) |
 | [0877-stone-game](https://github.com/arnavghai07/DSA/tree/master/0877-stone-game) |
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0796-rotate-string](https://github.com/arnavghai07/DSA/tree/master/0796-rotate-string) |
 | [0804-unique-morse-code-words](https://github.com/arnavghai07/DSA/tree/master/0804-unique-morse-code-words) |
 | [0806-number-of-lines-to-write-string](https://github.com/arnavghai07/DSA/tree/master/0806-number-of-lines-to-write-string) |
+| [0819-most-common-word](https://github.com/arnavghai07/DSA/tree/master/0819-most-common-word) |
 | [0821-shortest-distance-to-a-character](https://github.com/arnavghai07/DSA/tree/master/0821-shortest-distance-to-a-character) |
 | [0844-backspace-string-compare](https://github.com/arnavghai07/DSA/tree/master/0844-backspace-string-compare) |
 | [0856-score-of-parentheses](https://github.com/arnavghai07/DSA/tree/master/0856-score-of-parentheses) |
@@ -221,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0748-shortest-completing-word](https://github.com/arnavghai07/DSA/tree/master/0748-shortest-completing-word) |
 | [0771-jewels-and-stones](https://github.com/arnavghai07/DSA/tree/master/0771-jewels-and-stones) |
 | [0804-unique-morse-code-words](https://github.com/arnavghai07/DSA/tree/master/0804-unique-morse-code-words) |
+| [0819-most-common-word](https://github.com/arnavghai07/DSA/tree/master/0819-most-common-word) |
 | [0888-fair-candy-swap](https://github.com/arnavghai07/DSA/tree/master/0888-fair-candy-swap) |
 | [1122-relative-sort-array](https://github.com/arnavghai07/DSA/tree/master/1122-relative-sort-array) |
 | [1331-rank-transform-of-an-array](https://github.com/arnavghai07/DSA/tree/master/1331-rank-transform-of-an-array) |
@@ -426,6 +429,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/arnavghai07/DSA/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/arnavghai07/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/arnavghai07/DSA/tree/master/0594-longest-harmonious-subsequence) |
+| [0819-most-common-word](https://github.com/arnavghai07/DSA/tree/master/0819-most-common-word) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/arnavghai07/DSA/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/arnavghai07/DSA/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2248-intersection-of-multiple-arrays](https://github.com/arnavghai07/DSA/tree/master/2248-intersection-of-multiple-arrays) |
