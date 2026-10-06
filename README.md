@@ -191,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0819-most-common-word](https://github.com/arnavghai07/DSA/tree/master/0819-most-common-word) |
 | [0821-shortest-distance-to-a-character](https://github.com/arnavghai07/DSA/tree/master/0821-shortest-distance-to-a-character) |
 | [0824-goat-latin](https://github.com/arnavghai07/DSA/tree/master/0824-goat-latin) |
+| [0830-positions-of-large-groups](https://github.com/arnavghai07/DSA/tree/master/0830-positions-of-large-groups) |
 | [0844-backspace-string-compare](https://github.com/arnavghai07/DSA/tree/master/0844-backspace-string-compare) |
 | [0856-score-of-parentheses](https://github.com/arnavghai07/DSA/tree/master/0856-score-of-parentheses) |
 | [0917-reverse-only-letters](https://github.com/arnavghai07/DSA/tree/master/0917-reverse-only-letters) |
