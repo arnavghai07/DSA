@@ -194,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0844-backspace-string-compare](https://github.com/arnavghai07/DSA/tree/master/0844-backspace-string-compare) |
 | [0856-score-of-parentheses](https://github.com/arnavghai07/DSA/tree/master/0856-score-of-parentheses) |
 | [0917-reverse-only-letters](https://github.com/arnavghai07/DSA/tree/master/0917-reverse-only-letters) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/arnavghai07/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0925-long-pressed-name](https://github.com/arnavghai07/DSA/tree/master/0925-long-pressed-name) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/arnavghai07/DSA/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1078-occurrences-after-bigram](https://github.com/arnavghai07/DSA/tree/master/1078-occurrences-after-bigram) |
@@ -329,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/arnavghai07/DSA/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0844-backspace-string-compare](https://github.com/arnavghai07/DSA/tree/master/0844-backspace-string-compare) |
 | [0856-score-of-parentheses](https://github.com/arnavghai07/DSA/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/arnavghai07/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0962-maximum-width-ramp](https://github.com/arnavghai07/DSA/tree/master/0962-maximum-width-ramp) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/arnavghai07/DSA/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/arnavghai07/DSA/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
@@ -395,6 +397,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/arnavghai07/DSA/tree/master/0409-longest-palindrome) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/arnavghai07/DSA/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0605-can-place-flowers](https://github.com/arnavghai07/DSA/tree/master/0605-can-place-flowers) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/arnavghai07/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0976-largest-perimeter-triangle](https://github.com/arnavghai07/DSA/tree/master/0976-largest-perimeter-triangle) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/arnavghai07/DSA/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1403-minimum-subsequence-in-non-increasing-order](https://github.com/arnavghai07/DSA/tree/master/1403-minimum-subsequence-in-non-increasing-order) |
@@ -542,6 +545,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/arnavghai07/DSA/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/arnavghai07/DSA/tree/master/0032-longest-valid-parentheses) |
 | [0856-score-of-parentheses](https://github.com/arnavghai07/DSA/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/arnavghai07/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/arnavghai07/DSA/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 ## Euclidean Algorithm
 |  |
