@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/arnavghai07/DSA/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/arnavghai07/DSA/tree/master/0922-sort-array-by-parity-ii) |
 | [0929-unique-email-addresses](https://github.com/arnavghai07/DSA/tree/master/0929-unique-email-addresses) |
+| [0944-delete-columns-to-make-sorted](https://github.com/arnavghai07/DSA/tree/master/0944-delete-columns-to-make-sorted) |
 | [0962-maximum-width-ramp](https://github.com/arnavghai07/DSA/tree/master/0962-maximum-width-ramp) |
 | [0976-largest-perimeter-triangle](https://github.com/arnavghai07/DSA/tree/master/0976-largest-perimeter-triangle) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/arnavghai07/DSA/tree/master/1005-maximize-sum-of-array-after-k-negations) |
@@ -199,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/arnavghai07/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0925-long-pressed-name](https://github.com/arnavghai07/DSA/tree/master/0925-long-pressed-name) |
 | [0929-unique-email-addresses](https://github.com/arnavghai07/DSA/tree/master/0929-unique-email-addresses) |
+| [0944-delete-columns-to-make-sorted](https://github.com/arnavghai07/DSA/tree/master/0944-delete-columns-to-make-sorted) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/arnavghai07/DSA/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1078-occurrences-after-bigram](https://github.com/arnavghai07/DSA/tree/master/1078-occurrences-after-bigram) |
 | [1108-defanging-an-ip-address](https://github.com/arnavghai07/DSA/tree/master/1108-defanging-an-ip-address) |
@@ -559,4 +561,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1071-greatest-common-divisor-of-strings](https://github.com/arnavghai07/DSA/tree/master/1071-greatest-common-divisor-of-strings) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0944-delete-columns-to-make-sorted](https://github.com/arnavghai07/DSA/tree/master/0944-delete-columns-to-make-sorted) |
 <!---LeetCode Topics End-->
