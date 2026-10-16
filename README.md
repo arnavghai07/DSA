@@ -201,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0830-positions-of-large-groups](https://github.com/arnavghai07/DSA/tree/master/0830-positions-of-large-groups) |
 | [0844-backspace-string-compare](https://github.com/arnavghai07/DSA/tree/master/0844-backspace-string-compare) |
 | [0856-score-of-parentheses](https://github.com/arnavghai07/DSA/tree/master/0856-score-of-parentheses) |
+| [0859-buddy-strings](https://github.com/arnavghai07/DSA/tree/master/0859-buddy-strings) |
 | [0917-reverse-only-letters](https://github.com/arnavghai07/DSA/tree/master/0917-reverse-only-letters) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/arnavghai07/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0925-long-pressed-name](https://github.com/arnavghai07/DSA/tree/master/0925-long-pressed-name) |
@@ -238,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0771-jewels-and-stones](https://github.com/arnavghai07/DSA/tree/master/0771-jewels-and-stones) |
 | [0804-unique-morse-code-words](https://github.com/arnavghai07/DSA/tree/master/0804-unique-morse-code-words) |
 | [0819-most-common-word](https://github.com/arnavghai07/DSA/tree/master/0819-most-common-word) |
+| [0859-buddy-strings](https://github.com/arnavghai07/DSA/tree/master/0859-buddy-strings) |
 | [0888-fair-candy-swap](https://github.com/arnavghai07/DSA/tree/master/0888-fair-candy-swap) |
 | [0929-unique-email-addresses](https://github.com/arnavghai07/DSA/tree/master/0929-unique-email-addresses) |
 | [1002-find-common-characters](https://github.com/arnavghai07/DSA/tree/master/1002-find-common-characters) |
