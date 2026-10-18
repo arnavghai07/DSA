@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/arnavghai07/DSA/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1051-height-checker](https://github.com/arnavghai07/DSA/tree/master/1051-height-checker) |
 | [1122-relative-sort-array](https://github.com/arnavghai07/DSA/tree/master/1122-relative-sort-array) |
+| [1128-number-of-equivalent-domino-pairs](https://github.com/arnavghai07/DSA/tree/master/1128-number-of-equivalent-domino-pairs) |
 | [1200-minimum-absolute-difference](https://github.com/arnavghai07/DSA/tree/master/1200-minimum-absolute-difference) |
 | [1331-rank-transform-of-an-array](https://github.com/arnavghai07/DSA/tree/master/1331-rank-transform-of-an-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/arnavghai07/DSA/tree/master/1346-check-if-n-and-its-double-exist) |
@@ -245,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0929-unique-email-addresses](https://github.com/arnavghai07/DSA/tree/master/0929-unique-email-addresses) |
 | [1002-find-common-characters](https://github.com/arnavghai07/DSA/tree/master/1002-find-common-characters) |
 | [1122-relative-sort-array](https://github.com/arnavghai07/DSA/tree/master/1122-relative-sort-array) |
+| [1128-number-of-equivalent-domino-pairs](https://github.com/arnavghai07/DSA/tree/master/1128-number-of-equivalent-domino-pairs) |
 | [1331-rank-transform-of-an-array](https://github.com/arnavghai07/DSA/tree/master/1331-rank-transform-of-an-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/arnavghai07/DSA/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/arnavghai07/DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -455,6 +457,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/arnavghai07/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/arnavghai07/DSA/tree/master/0594-longest-harmonious-subsequence) |
 | [0819-most-common-word](https://github.com/arnavghai07/DSA/tree/master/0819-most-common-word) |
+| [1128-number-of-equivalent-domino-pairs](https://github.com/arnavghai07/DSA/tree/master/1128-number-of-equivalent-domino-pairs) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/arnavghai07/DSA/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/arnavghai07/DSA/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2248-intersection-of-multiple-arrays](https://github.com/arnavghai07/DSA/tree/master/2248-intersection-of-multiple-arrays) |
