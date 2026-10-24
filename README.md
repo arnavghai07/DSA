@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0976-largest-perimeter-triangle](https://github.com/arnavghai07/DSA/tree/master/0976-largest-perimeter-triangle) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/arnavghai07/DSA/tree/master/1071-greatest-common-divisor-of-strings) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/arnavghai07/DSA/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
+| [2409-count-days-spent-together](https://github.com/arnavghai07/DSA/tree/master/2409-count-days-spent-together) |
 | [2578-split-with-minimum-sum](https://github.com/arnavghai07/DSA/tree/master/2578-split-with-minimum-sum) |
 | [3024-type-of-triangle](https://github.com/arnavghai07/DSA/tree/master/3024-type-of-triangle) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/arnavghai07/DSA/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -229,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1859-sorting-the-sentence](https://github.com/arnavghai07/DSA/tree/master/1859-sorting-the-sentence) |
 | [2000-reverse-prefix-of-word](https://github.com/arnavghai07/DSA/tree/master/2000-reverse-prefix-of-word) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/arnavghai07/DSA/tree/master/2273-find-resultant-array-after-removing-anagrams) |
+| [2409-count-days-spent-together](https://github.com/arnavghai07/DSA/tree/master/2409-count-days-spent-together) |
 | [2418-sort-the-people](https://github.com/arnavghai07/DSA/tree/master/2418-sort-the-people) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/arnavghai07/DSA/tree/master/2696-minimum-string-length-after-removing-substrings) |
 | [3545-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/arnavghai07/DSA/tree/master/3545-minimum-deletions-for-at-most-k-distinct-characters) |
