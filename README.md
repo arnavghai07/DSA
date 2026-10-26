@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/arnavghai07/DSA/tree/master/0069-sqrtx) |
 | [0263-ugly-number](https://github.com/arnavghai07/DSA/tree/master/0263-ugly-number) |
 | [0292-nim-game](https://github.com/arnavghai07/DSA/tree/master/0292-nim-game) |
+| [0326-power-of-three](https://github.com/arnavghai07/DSA/tree/master/0326-power-of-three) |
 | [0412-fizz-buzz](https://github.com/arnavghai07/DSA/tree/master/0412-fizz-buzz) |
 | [0504-base-7](https://github.com/arnavghai07/DSA/tree/master/0504-base-7) |
 | [0507-perfect-number](https://github.com/arnavghai07/DSA/tree/master/0507-perfect-number) |
@@ -491,6 +492,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/arnavghai07/DSA/tree/master/0002-add-two-numbers) |
+| [0326-power-of-three](https://github.com/arnavghai07/DSA/tree/master/0326-power-of-three) |
 | [2094-finding-3-digit-even-numbers](https://github.com/arnavghai07/DSA/tree/master/2094-finding-3-digit-even-numbers) |
 | [3483-unique-3-digit-even-numbers](https://github.com/arnavghai07/DSA/tree/master/3483-unique-3-digit-even-numbers) |
 ## Backtracking
