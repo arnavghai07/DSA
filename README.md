@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/arnavghai07/DSA/tree/master/0877-stone-game) |
 | [0976-largest-perimeter-triangle](https://github.com/arnavghai07/DSA/tree/master/0976-largest-perimeter-triangle) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/arnavghai07/DSA/tree/master/1071-greatest-common-divisor-of-strings) |
+| [1154-day-of-the-year](https://github.com/arnavghai07/DSA/tree/master/1154-day-of-the-year) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/arnavghai07/DSA/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2409-count-days-spent-together](https://github.com/arnavghai07/DSA/tree/master/2409-count-days-spent-together) |
 | [2578-split-with-minimum-sum](https://github.com/arnavghai07/DSA/tree/master/2578-split-with-minimum-sum) |
@@ -228,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1078-occurrences-after-bigram](https://github.com/arnavghai07/DSA/tree/master/1078-occurrences-after-bigram) |
 | [1108-defanging-an-ip-address](https://github.com/arnavghai07/DSA/tree/master/1108-defanging-an-ip-address) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/arnavghai07/DSA/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
+| [1154-day-of-the-year](https://github.com/arnavghai07/DSA/tree/master/1154-day-of-the-year) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/arnavghai07/DSA/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1189-maximum-number-of-balloons](https://github.com/arnavghai07/DSA/tree/master/1189-maximum-number-of-balloons) |
 | [1544-make-the-string-great](https://github.com/arnavghai07/DSA/tree/master/1544-make-the-string-great) |
