@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0836-rectangle-overlap](https://github.com/arnavghai07/DSA/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/arnavghai07/DSA/tree/master/0877-stone-game) |
 | [0976-largest-perimeter-triangle](https://github.com/arnavghai07/DSA/tree/master/0976-largest-perimeter-triangle) |
+| [1025-divisor-game](https://github.com/arnavghai07/DSA/tree/master/1025-divisor-game) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/arnavghai07/DSA/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1154-day-of-the-year](https://github.com/arnavghai07/DSA/tree/master/1154-day-of-the-year) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/arnavghai07/DSA/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/arnavghai07/DSA/tree/master/0032-longest-valid-parentheses) |
 | [0877-stone-game](https://github.com/arnavghai07/DSA/tree/master/0877-stone-game) |
+| [1025-divisor-game](https://github.com/arnavghai07/DSA/tree/master/1025-divisor-game) |
 ## Minimax
 |  |
 | ------- |
@@ -156,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0292-nim-game](https://github.com/arnavghai07/DSA/tree/master/0292-nim-game) |
 | [0877-stone-game](https://github.com/arnavghai07/DSA/tree/master/0877-stone-game) |
+| [1025-divisor-game](https://github.com/arnavghai07/DSA/tree/master/1025-divisor-game) |
 ## Zero-Sum Game
 |  |
 | ------- |
@@ -615,6 +618,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/arnavghai07/DSA/tree/master/0292-nim-game) |
+| [1025-divisor-game](https://github.com/arnavghai07/DSA/tree/master/1025-divisor-game) |
 ## Nim Game
 |  |
 | ------- |
@@ -623,6 +627,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/arnavghai07/DSA/tree/master/0292-nim-game) |
+| [1025-divisor-game](https://github.com/arnavghai07/DSA/tree/master/1025-divisor-game) |
 ## Binary Indexed Tree
 |  |
 | ------- |
