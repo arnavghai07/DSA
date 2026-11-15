@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/arnavghai07/DSA/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/arnavghai07/DSA/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/arnavghai07/DSA/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
+| [1512-number-of-good-pairs](https://github.com/arnavghai07/DSA/tree/master/1512-number-of-good-pairs) |
 | [1598-crawler-log-folder](https://github.com/arnavghai07/DSA/tree/master/1598-crawler-log-folder) |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/arnavghai07/DSA/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1619-mean-of-array-after-removing-some-elements](https://github.com/arnavghai07/DSA/tree/master/1619-mean-of-array-after-removing-some-elements) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/arnavghai07/DSA/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1323-maximum-69-number](https://github.com/arnavghai07/DSA/tree/master/1323-maximum-69-number) |
 | [1486-xor-operation-in-an-array](https://github.com/arnavghai07/DSA/tree/master/1486-xor-operation-in-an-array) |
+| [1512-number-of-good-pairs](https://github.com/arnavghai07/DSA/tree/master/1512-number-of-good-pairs) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/arnavghai07/DSA/tree/master/1822-sign-of-the-product-of-an-array) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/arnavghai07/DSA/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2409-count-days-spent-together](https://github.com/arnavghai07/DSA/tree/master/2409-count-days-spent-together) |
@@ -282,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1346-check-if-n-and-its-double-exist](https://github.com/arnavghai07/DSA/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/arnavghai07/DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/arnavghai07/DSA/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
+| [1512-number-of-good-pairs](https://github.com/arnavghai07/DSA/tree/master/1512-number-of-good-pairs) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/arnavghai07/DSA/tree/master/1636-sort-array-by-increasing-frequency) |
 | [2094-finding-3-digit-even-numbers](https://github.com/arnavghai07/DSA/tree/master/2094-finding-3-digit-even-numbers) |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/arnavghai07/DSA/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
@@ -494,6 +497,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/arnavghai07/DSA/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1189-maximum-number-of-balloons](https://github.com/arnavghai07/DSA/tree/master/1189-maximum-number-of-balloons) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/arnavghai07/DSA/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [1512-number-of-good-pairs](https://github.com/arnavghai07/DSA/tree/master/1512-number-of-good-pairs) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/arnavghai07/DSA/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2248-intersection-of-multiple-arrays](https://github.com/arnavghai07/DSA/tree/master/2248-intersection-of-multiple-arrays) |
 | [3467-transform-array-by-parity](https://github.com/arnavghai07/DSA/tree/master/3467-transform-array-by-parity) |
