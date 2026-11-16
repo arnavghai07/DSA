@@ -249,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1750-minimum-length-of-string-after-deleting-similar-ends](https://github.com/arnavghai07/DSA/tree/master/1750-minimum-length-of-string-after-deleting-similar-ends) |
 | [1859-sorting-the-sentence](https://github.com/arnavghai07/DSA/tree/master/1859-sorting-the-sentence) |
 | [2000-reverse-prefix-of-word](https://github.com/arnavghai07/DSA/tree/master/2000-reverse-prefix-of-word) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/arnavghai07/DSA/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/arnavghai07/DSA/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2409-count-days-spent-together](https://github.com/arnavghai07/DSA/tree/master/2409-count-days-spent-together) |
 | [2418-sort-the-people](https://github.com/arnavghai07/DSA/tree/master/2418-sort-the-people) |
@@ -480,6 +481,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0832-flipping-an-image](https://github.com/arnavghai07/DSA/tree/master/0832-flipping-an-image) |
 | [0844-backspace-string-compare](https://github.com/arnavghai07/DSA/tree/master/0844-backspace-string-compare) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/arnavghai07/DSA/tree/master/2154-keep-multiplying-found-values-by-two) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/arnavghai07/DSA/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/arnavghai07/DSA/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2500-delete-greatest-value-in-each-row](https://github.com/arnavghai07/DSA/tree/master/2500-delete-greatest-value-in-each-row) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/arnavghai07/DSA/tree/master/2696-minimum-string-length-after-removing-substrings) |
