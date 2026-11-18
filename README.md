@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/arnavghai07/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0228-summary-ranges](https://github.com/arnavghai07/DSA/tree/master/0228-summary-ranges) |
 | [0349-intersection-of-two-arrays](https://github.com/arnavghai07/DSA/tree/master/0349-intersection-of-two-arrays) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/arnavghai07/DSA/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/arnavghai07/DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0495-teemo-attacking](https://github.com/arnavghai07/DSA/tree/master/0495-teemo-attacking) |
 | [0500-keyboard-row](https://github.com/arnavghai07/DSA/tree/master/0500-keyboard-row) |
@@ -263,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/arnavghai07/DSA/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/arnavghai07/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/arnavghai07/DSA/tree/master/0409-longest-palindrome) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/arnavghai07/DSA/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/arnavghai07/DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0500-keyboard-row](https://github.com/arnavghai07/DSA/tree/master/0500-keyboard-row) |
 | [0525-contiguous-array](https://github.com/arnavghai07/DSA/tree/master/0525-contiguous-array) |
@@ -315,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/arnavghai07/DSA/tree/master/0018-4sum) |
 | [0179-largest-number](https://github.com/arnavghai07/DSA/tree/master/0179-largest-number) |
 | [0349-intersection-of-two-arrays](https://github.com/arnavghai07/DSA/tree/master/0349-intersection-of-two-arrays) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/arnavghai07/DSA/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/arnavghai07/DSA/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0594-longest-harmonious-subsequence](https://github.com/arnavghai07/DSA/tree/master/0594-longest-harmonious-subsequence) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/arnavghai07/DSA/tree/master/0747-largest-number-at-least-twice-of-others) |
