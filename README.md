@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/arnavghai07/DSA/tree/master/0014-longest-common-prefix) |
 | [0018-4sum](https://github.com/arnavghai07/DSA/tree/master/0018-4sum) |
+| [0059-spiral-matrix-ii](https://github.com/arnavghai07/DSA/tree/master/0059-spiral-matrix-ii) |
 | [0066-plus-one](https://github.com/arnavghai07/DSA/tree/master/0066-plus-one) |
 | [0179-largest-number](https://github.com/arnavghai07/DSA/tree/master/0179-largest-number) |
 | [0209-minimum-size-subarray-sum](https://github.com/arnavghai07/DSA/tree/master/0209-minimum-size-subarray-sum) |
@@ -482,6 +483,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0059-spiral-matrix-ii](https://github.com/arnavghai07/DSA/tree/master/0059-spiral-matrix-ii) |
 | [0412-fizz-buzz](https://github.com/arnavghai07/DSA/tree/master/0412-fizz-buzz) |
 | [0495-teemo-attacking](https://github.com/arnavghai07/DSA/tree/master/0495-teemo-attacking) |
 | [0657-robot-return-to-origin](https://github.com/arnavghai07/DSA/tree/master/0657-robot-return-to-origin) |
@@ -612,6 +614,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0059-spiral-matrix-ii](https://github.com/arnavghai07/DSA/tree/master/0059-spiral-matrix-ii) |
 | [0832-flipping-an-image](https://github.com/arnavghai07/DSA/tree/master/0832-flipping-an-image) |
 | [2500-delete-greatest-value-in-each-row](https://github.com/arnavghai07/DSA/tree/master/2500-delete-greatest-value-in-each-row) |
 ## Bracket Sequences
